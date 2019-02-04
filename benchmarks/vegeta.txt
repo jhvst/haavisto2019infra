@@ -1,0 +1,4 @@
+Version: cli/v12.1.0
+Commit: c120b942b43950d4237e41f31152706fbc3d4c0d
+Runtime: go1.11.2 darwin/amd64
+Date: 2018-11-17T05:18:18Z+0000
